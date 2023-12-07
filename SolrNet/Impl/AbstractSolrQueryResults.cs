@@ -60,6 +60,11 @@ namespace SolrNet.Impl {
         /// Facet pivot results
         /// </summary>
         public IDictionary<string, IList<Pivot>> FacetPivots { get; set; }
+		
+		/// <summary>
+        /// Facet function results
+        /// </summary>
+        public IDictionary<string, string> FacetFunctionValues { get; set; }
 
         protected AbstractSolrQueryResults() {
             FacetQueries = new Dictionary<string, int>();
@@ -68,6 +73,7 @@ namespace SolrNet.Impl {
             FacetRanges = new Dictionary<string, RangeFacetingResult>();
             FacetIntervals = new Dictionary<string, ICollection<KeyValuePair<string, int>>>();
             FacetPivots = new Dictionary<string, IList<Pivot>>();
+			FacetFunctionValues = new Dictionary<string, string>();
         }
 
         /// <summary>
