@@ -22,7 +22,8 @@ namespace SolrNet.Impl.ResponseParsers {
                 new MoreLikeThisHandlerMatchResponseParser<T>(docParser),
                 new InterestingTermsResponseParser<T>(),
 				new TermVectorResultsParser<T>(),
-                new DebugResponseParser<T>()
+                new DebugResponseParser<T>(),
+                new FacetFunctionResponseParser<T>()
             });
         }
 
