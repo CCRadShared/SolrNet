@@ -2,15 +2,6 @@
   "version": 1,
   "dependencies": {
     ".NETFramework,Version=v4.6": {
-      "Microsoft.NETFramework.ReferenceAssemblies": {
-        "type": "Direct",
-        "requested": "[1.0.2, )",
-        "resolved": "1.0.2",
-        "contentHash": "5/cSEVld+px/CuRrbohO/djfg6++eR6zGpy88MgqloXvkj//WXWpFZyu/OpkXPN0u5m+dN/EVwLNYFUxD4h2+A==",
-        "dependencies": {
-          "Microsoft.NETFramework.ReferenceAssemblies.net46": "1.0.2"
-        }
-      },
       "StructureMap": {
         "type": "Direct",
         "requested": "[4.6.1, )",
@@ -19,11 +10,6 @@
         "dependencies": {
           "System.Reflection.Emit.Lightweight": "4.3.0"
         }
-      },
-      "Microsoft.NETFramework.ReferenceAssemblies.net46": {
-        "type": "Transitive",
-        "resolved": "1.0.2",
-        "contentHash": "ja03PYUrlY0wDsqAanq+r9vOnuYR5n2pd5S/sIDtC6v+BUvd34ftz0ayAb7F72lduT4qCSKtkS2EZC80/NBNMA=="
       },
       "Newtonsoft.Json": {
         "type": "Transitive",

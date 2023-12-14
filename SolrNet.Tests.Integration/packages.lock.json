@@ -2130,23 +2130,23 @@
         "type": "Project",
         "dependencies": {
           "CommonServiceLocator": "[2.0.2, )",
-          "SolrNet.Core": "[1.0.20, )"
+          "SolrNet.Core": "[1.2.0, )"
         }
       },
       "SolrNet.Cloud": {
         "type": "Project",
         "dependencies": {
           "CommonServiceLocator": "[2.0.2, )",
-          "SolrNet": "[1.0.20, )",
-          "SolrNet.Cloud.Core": "[1.0.20, )",
-          "SolrNet.Core": "[1.0.20, )"
+          "SolrNet": "[1.2.0, )",
+          "SolrNet.Cloud.Core": "[1.2.0, )",
+          "SolrNet.Core": "[1.2.0, )"
         }
       },
       "SolrNet.Cloud.Core": {
         "type": "Project",
         "dependencies": {
           "Newtonsoft.Json": "[13.0.3, )",
-          "SolrNet.Core": "[1.0.20, )",
+          "SolrNet.Core": "[1.2.0, )",
           "ZooKeeperNetEx": "[3.4.12.1, )"
         }
       },
@@ -2154,8 +2154,8 @@
         "type": "Project",
         "dependencies": {
           "Nito.AsyncEx": "[4.0.1, )",
-          "SolrNet.Cloud.Core": "[1.0.20, )",
-          "SolrNet.Core": "[1.0.20, )",
+          "SolrNet.Cloud.Core": "[1.2.0, )",
+          "SolrNet.Core": "[1.2.0, )",
           "Unity": "[5.0.0, )",
           "ZooKeeperNetEx": "[3.4.12.1, )"
         }
@@ -2170,7 +2170,7 @@
         "type": "Project",
         "dependencies": {
           "LightInject": "[4.1.1, )",
-          "SolrNet.Core": "[1.0.20, )"
+          "SolrNet.Core": "[1.2.0, )"
         }
       },
       "solrnet.tests.common": {
@@ -2179,7 +2179,7 @@
           "Castle.Core": "[4.2.1, )",
           "Castle.Windsor": "[4.1.0, )",
           "CommonServiceLocator": "[2.0.2, )",
-          "SolrNet.Core": "[1.0.20, )",
+          "SolrNet.Core": "[1.2.0, )",
           "Testcontainers": "[3.5.0, )",
           "xunit.assert": "[2.4.1, )"
         }

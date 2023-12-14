@@ -8,20 +8,6 @@
         "resolved": "4.6.2",
         "contentHash": "wKI7F6+n45gqfq0T8FuB3hFzaCkuegiFo5in6uB1y2Ai9ZYcjue8yqk3yzyNEwBDS7AyvlTUGSoNovwpUuKqTw=="
       },
-      "Microsoft.NETFramework.ReferenceAssemblies": {
-        "type": "Direct",
-        "requested": "[1.0.2, )",
-        "resolved": "1.0.2",
-        "contentHash": "5/cSEVld+px/CuRrbohO/djfg6++eR6zGpy88MgqloXvkj//WXWpFZyu/OpkXPN0u5m+dN/EVwLNYFUxD4h2+A==",
-        "dependencies": {
-          "Microsoft.NETFramework.ReferenceAssemblies.net46": "1.0.2"
-        }
-      },
-      "Microsoft.NETFramework.ReferenceAssemblies.net46": {
-        "type": "Transitive",
-        "resolved": "1.0.2",
-        "contentHash": "ja03PYUrlY0wDsqAanq+r9vOnuYR5n2pd5S/sIDtC6v+BUvd34ftz0ayAb7F72lduT4qCSKtkS2EZC80/NBNMA=="
-      },
       "Newtonsoft.Json": {
         "type": "Transitive",
         "resolved": "13.0.3",

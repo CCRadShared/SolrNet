@@ -2026,7 +2026,7 @@
         "type": "Project",
         "dependencies": {
           "SimpleInjector": "[4.3.0, )",
-          "SolrNet.Core": "[1.0.20, )"
+          "SolrNet.Core": "[1.1.0, )"
         }
       },
       "SolrNet.Core": {
@@ -2041,7 +2041,7 @@
           "Castle.Core": "[4.2.1, )",
           "Castle.Windsor": "[4.1.0, )",
           "CommonServiceLocator": "[2.0.2, )",
-          "SolrNet.Core": "[1.0.20, )",
+          "SolrNet.Core": "[1.1.0, )",
           "Testcontainers": "[3.5.0, )",
           "xunit.assert": "[2.4.1, )"
         }

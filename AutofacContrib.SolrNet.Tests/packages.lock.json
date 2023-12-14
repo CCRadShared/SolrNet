@@ -2140,7 +2140,7 @@
         "type": "Project",
         "dependencies": {
           "Autofac": "[4.6.2, )",
-          "SolrNet.Core": "[1.0.20, )",
+          "SolrNet.Core": "[1.1.0, )",
           "System.Configuration.ConfigurationManager": "[5.0.0, )"
         }
       },
@@ -2156,7 +2156,7 @@
           "Castle.Core": "[4.2.1, )",
           "Castle.Windsor": "[4.1.0, )",
           "CommonServiceLocator": "[2.0.2, )",
-          "SolrNet.Core": "[1.0.20, )",
+          "SolrNet.Core": "[1.1.0, )",
           "Testcontainers": "[3.5.0, )",
           "xunit.assert": "[2.4.1, )"
         }
